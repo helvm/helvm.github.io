@@ -1,4 +1,4 @@
-# Welcome to ☀️ HELVM 🌈 ❤️ 💛 💚 💙 🤍 🖤 🦄
+# Welcome to ☀️ HELVM 
 
 *Write Once, Cross-Compile for EveryWhere*
 
@@ -19,3 +19,7 @@ and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language
 
 <!-- https://en.wikipedia.org/wiki/README -->
 
+One Automata to rule them all, One Automata to find them,
+One Automata to bring them all and in the rainbow bind them.
+
+# 🌈 ❤️ 💛 💚 💙 🤍 🖤 🦄
