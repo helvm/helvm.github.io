@@ -22,4 +22,9 @@ and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language
 One Automata to rule them all, One Automata to find them,
 One Automata to bring them all and in the rainbow bind them.
 
+<!--
+Actual Minimal Automation Machine
+Minimal Automata
+-->
+
 # 🌈 ❤️ 💛 💚 💙 🤍 🖤 🦄
