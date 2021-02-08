@@ -7,7 +7,7 @@
 **HELVM** has six part:
 1. 🚁 **[HELCAM](helcam)** - (pronunciation `helicam`) Heavenly Esoteric Little Concrete Absolute Machine
   🛺🚗 **HELMA** - Heavenly Esoteric Little Minimalist Automata
-and **HAMAMAL** H Actual Minimalist Automatic Machine Languages
+and **HAMAMAL** Hygge Actual Minimalist Automatic Machine Languages
 2. 🧑‍🏭 **[HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
 and **HAPAPL** - High Abstract Para Assembly Programing Language
 3. 🦖 **[HELCT](helct)** (pronunciation `helicity`)- Heavenly Esoteric Little C Transpiler\
