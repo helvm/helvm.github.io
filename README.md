@@ -5,19 +5,19 @@
 ☀️ **HELVM** (pronunciation `helium`) is a Heavenly Esoteric Little (Vegan Metro) Virtual Machine implemented in Haskell/Eta.
 
 **HELVM** has six part:
-1. 🚁 **[HELCAM](helcam)** - (pronunciation `helicam`) Heavenly Esoteric Little Concrete Absolute Machine
-  🛺🚗 **HELMA** - Heavenly Esoteric Little Minimalist Automata
-and **HAMAMAL** Hydraulic Actual Minimalist Automatic Mechanical Languages
-or Hydraulic Actual Minimalist Languages of Automatic Machine
+1. 🚁 **[HELCAM](helcam)** - (pronunciation `helicam`) Heavenly Esoteric Little Concrete Absolute Machine\
+  🛺🚗 **HELMA** - Heavenly Esoteric Little Minimalist Automata\
+and **HAMAMAL** Hydraulic Actual Minimalist Automatic Mechanical Languages\
+or **HAMALAM** Hydraulic Actual Minimalist Languages of Automatic Machine
 2. 🧑‍🏭 **[HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
-and **HAPAPL** - High Abstract Para Assembly Programing Language
-or High Abstract Para Language of Assembly Program
+and **HAPAPL** - High Abstract Para Assembly Programing Language\
+or **HAPLAP** - High Abstract Para Language of Assembly Program
 3. 🦖 **[HELCT](helct)** (pronunciation `helicity`) - Heavenly Esoteric Little C Transpiler\
-and **HTCTCL** - Happy TransCis TransCompiled Language 
-or Happy TransCis Language of TransCompiler
+and **HTCTCL** - Happy TransCis TransCompiled Language\
+or **HTCLTC** - Happy TransCis Language of TransCompiler
 4. ☸️ **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
-and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language 
-or Hygienic Specific Macro Language of Scheme MetaEvaluator
+and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
+or **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
 5. 🧏 **[HELL](hell)** - Heavenly Esoteric Little Logician
 6. ☀️ **HELOS** (pronunciation `helios`) - Heavenly Esoteric Little Operation System 
 
