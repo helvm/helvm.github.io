@@ -5,8 +5,7 @@
 ☀️ **HELVM** (pronunciation `helium`) is a Heavenly Esoteric Little (Vegan Metro) Virtual Machine implemented in Haskell/Eta.
 
 **HELVM** has six part:
-1. 🚁 **[HELCAM](helcam)** - (pronunciation `helicam`) Heavenly Esoteric Little Concrete Absolute Machine\
-  🧑‍🔧 🔧 🧑‍🎨 🎨  **HELMA** - Heavenly Esoteric Little Minimalist Automata\
+1. 🧑‍🔧 🔧 🧑‍🎨 🎨  **[HELMA](helcam)** - Heavenly Esoteric Little Minimalist Automata\
 and **HAMAMAL** - Hydraulic Actual Minimalist Automatic Mechanical Languages\
 or **HAMALAM** - Hydraulic Actual Minimalist Languages of Automatic Machine
 2. 🧑‍🏭 🏭 🧑‍🌾 🌾 **[HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
