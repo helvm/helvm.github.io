@@ -12,7 +12,7 @@ or **HAMALAM** - Hydraulic Actual Minimalist Languages of Automatic Machine
 2. 🧑‍🏭 **[HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
 and **HAPAPL** - High Abstract Para Assembly Programing Language\
 or **HAPLAP** - High Abstract Para Language of Assembly Program
-3. ☸️ **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
+3. ☸️🧑‍💼 **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
 and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
 or **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
 4. 💁 **HELPS** - Heavenly Esoteric Little Pre Schemer \
