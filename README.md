@@ -15,7 +15,7 @@ or **HAPLAP** - High Abstract Para Language of Assembly Program
 3. 🧑‍🔬 🔬 ☸️ **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
 and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
 or **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
-4. 🧑‍💼 💼 💁 **HELPS** - Heavenly Esoteric Little Pre Schemer \
+4. 🧑‍🚀 🚀 🧑‍💼 💼 💁 **HELPS** - Heavenly Esoteric Little Pre Schemer \
 and **HPSPSL** - H Simple Pretty Scheme Program Language\
 or **HSPLSP** - H Simple Pretty Language of Scheme Program
 5. 🦖 **[HELCT](helct)** (pronunciation `helicity`) - Heavenly Esoteric Little C Transpiler\
