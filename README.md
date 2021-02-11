@@ -16,7 +16,7 @@ and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
 or **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
 4. 🧑‍🚀 🚀 🧑‍✈️ ✈️ **HELPS** - Heavenly Esoteric Little Pre Schemer \
 and **HPSPSL** - Hyper Simple Pretty Scheme Program Language\
-or **HSPLSP** - Hyper Simple Pretty Language of Scheme Procesor
+or **HSPLSP** - Hyper Simple Pretty Language of Scheme PreProcesor
 5. 🧑‍💼 💼 🧑‍💻 💻 **[HELCT](helct)** (pronunciation `helicity`) - Heavenly Esoteric Little C Transpiler\
 and **HTCTCL** - Happy TransCis TransCompiled Language\
 6. 🧑‍🚒 🚒 🧑‍🍳 🍳 **[HELL](hell)** - Heavenly Esoteric Little Logician
