@@ -15,7 +15,7 @@ or **HAPLAP** - High Abstract Para Language of Assembly Program
 and **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
 or **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
 4. 🧑‍🚀 🚀 🧑‍✈️ ✈️ **HELPS** - Heavenly Esoteric Little Pre Schemer \
-and **HPSPSL** - Hyper Simple Pretty Scheme Program Language\
+and **HPSPSL** - Hyper Simple Pretty Scheme PreProcesing Language\
 or **HSPLSP** - Hyper Simple Pretty Language of Scheme PreProcesor
 5. 🧑‍💼 💼 🧑‍💻 💻 **[HELCT](helct)** (pronunciation `helicity`) - Heavenly Esoteric Little C Transpiler\
 and **HTCTCL** - Happy TransCis TransCompiled Language\
