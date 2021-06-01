@@ -11,12 +11,12 @@ or 🧑‍🔧 🧑‍🎨 **HAMALAM** - Holistic Actual Minimalist Languages of
 2. 🏭 🌾 **[HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
 and 🧑‍🏭 🧑‍🌾 **HAPAPL** - High Abstract Para Assembly Programing Language\
 or 🧑‍🏭 🧑‍🌾 **HAPLAP** - High Abstract Para Language of Assembly Program
-3. 🔬 ⚕️ **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
+3. 🚀 ✈️ **[HELPS](helps)** - Heavenly Esoteric Little Pre Schemer \
+and 🧑‍🚀 🧑‍✈️ **HPSPSL** - Hyper Simple Pretty Script PreProcesing Language\
+or 🧑‍🚀 🧑‍✈️ **HSPLSP** - Hyper Simple Pretty Language of Script PreProcesor
+4. 🔬 ⚕️ **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
 and 🧑‍🔬 🧑‍⚕️ **HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
 or 🧑‍🔬 🧑‍⚕️ **HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
-4. 🚀 ✈️ **[HELPS](helps)** - Heavenly Esoteric Little Pre Schemer \
-and 🧑‍🚀 🧑‍✈️ **HPSPSL** - Hyper Simple Pretty Scheme PreProcesing Language\
-or 🧑‍🚀 🧑‍✈️ **HSPLSP** - Hyper Simple Pretty Language of Scheme PreProcesor
 5. 💼 💻 🧑‍💼 🧑‍💻 **[HELCT](helct)** (pronunciation `helicity`) - Heavenly Esoteric Little C Transpiler\
 and **HTCTCL** - Happy TransCis TransCompiled Language\
 6. 🚒 🍳 🧑‍🚒 🧑‍🍳 **[HELL](hell)** - Heavenly Esoteric Little Logician
