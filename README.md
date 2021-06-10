@@ -6,7 +6,7 @@
 
 **HELVM** has six part:
 
-1. **🔧 🎨 [HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata\
+1. **🔧 🎨 [HELMA](helma)** - Heavenly Esoteric Little Minimalist Automaton\
       and **🧑‍🔧 🧑‍🎨 HAMAMAL** - Holistic Actual Minimalist Automatic Mechanical Languages\
        or **🧑‍🔧 🧑‍🎨 HAMALAM** - Holistic Actual Minimalist Languages of Automatic Machine
 2. **🏭 🌾 [HELPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
