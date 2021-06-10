@@ -13,7 +13,7 @@
        and **🧑‍🏭 🧑‍🌾 HAPAPL** - High Abstract Paradise Assembly Programing Language\
         or **🧑‍🏭 🧑‍🌾 HAPLAP** - High Abstract Paradise Language of Assembly Program
 3. **🚀 ✈️ [HELPS](helps)** - Heavenly Esoteric Little Pre Scripter\
-       and **🧑‍🚀 🧑‍✈️ HPSPSL** - Hyper Simple Procedural Script PreProcesing Language\
+       and **🧑‍🚀 🧑‍✈️ HPSPSL** - Hyper Simple Procedural Scripting PreProcesing Language\
         or **🧑‍🚀 🧑‍✈️ HSPLSP** - Hyper Simple Procedural Language of Script PreProcesor
 4. **🔬 ⚕️ [HELMS](helms)** - Heavenly Esoteric Little Meta Schemer (or Helm Schemer)\
        and **🧑‍🔬 🧑‍⚕️ HSMSML** - Hygienic Specific Macro Scheme MetaEvaluator Language \
