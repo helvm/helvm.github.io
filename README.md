@@ -10,8 +10,8 @@
       and **🧑‍🔧 🧑‍🎨 HAMAMAL** - Holistic Actual Minimalist Automatic Mechanical Languages\
        or **🧑‍🔧 🧑‍🎨 HAMALAM** - Holistic Actual Minimalist Languages of Automatic Machine
 2. **🏭 🌾 [HelPA](helpa)** - Heavenly Esoteric Little Para Assembler (or Help Assembler)\
-       and **🧑‍🏭 🧑‍🌾 HAPAPL** - High Abstract Paired Assembly Programing Language\
-        or **🧑‍🏭 🧑‍🌾 HAPLAP** - High Abstract Paired Language of Assembly Program
+       and **🧑‍🏭 🧑‍🌾 HAPAPL** - High Abstract Parallel Assembly Programing Language\
+        or **🧑‍🏭 🧑‍🌾 HAPLAP** - High Abstract Parallel Language of Assembly Program
 3. **🚀 ✈️ [HelPS](helps)** - Heavenly Esoteric Little Pre Scripter\
        and **🧑‍🚀 🧑‍✈️ HPSPSL** - Hyper Simple Procedural Scripting PreProcesing Language\
         or **🧑‍🚀 🧑‍✈️ HSPLSP** - Hyper Simple Procedural Language of Script PreProcesor
