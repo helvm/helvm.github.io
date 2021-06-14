@@ -20,7 +20,7 @@
        or **🧑‍🔬 🧑‍⚕️ HSMLSM**  - Hygienic Specific Macro Language of Scheme MetaEvaluator
 5. **💼 💻 [HelCT](http://helvm.online/helct)** (pronunciation `helicity`) - Heavenly Esoteric Lifted C Transpiler (🫖 Little Celestial Teapot) \
          and **🧑‍💼 🧑‍💻 HTCTCL** - Happy TransCis TransCompiled Language\
-6. 🚒 🍳 🧑‍🚒 🧑‍🍳 **[HelL](http://helvm.online/hell)** - Heavenly Esoteric Little Logician
+6. 🚒 🍳 🧑‍🚒 🧑‍🍳 **[HelL](http://helvm.online/hell)** - Heavenly Esoteric Long Logician Language
 7. 🎓 🏫 🧑‍🎓 🧑‍🏫 **HELOS** (pronunciation `helios`) - Heavenly Esoteric Little Operation System 
 
 **[Blog](https://writeonly.github.io/projects/helvm)** in Polish.
