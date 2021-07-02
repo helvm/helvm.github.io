@@ -7,8 +7,8 @@
 **HelVM** has six part:
 
 1. **🔧 🎨 [HelMA](http://helvm.online/helma)** - Heavenly Esoteric Little Minimalist Automaton\
-      and **🧑‍🔧 🧑‍🎨 HAMAMAL** - Holistic Actual Minimalist Automatic Mechanical Languages\
-       or **🧑‍🔧 🧑‍🎨 HAMALAM** - Holistic Actual Minimalist Languages of Automatic Machine
+      and **🧑‍🔧 🧑‍🎨 HAMAMAL** - Holistic Abstract Minimalist Automatic Mechanical Languages\
+       or **🧑‍🔧 🧑‍🎨 HAMALAM** - Holistic Abstract Minimalist Languages of Automatic Machine
 2. **🏭 🌾 [HelPA](http://helvm.online/helpa)** - Heavenly Esoteric Light Parallel Assembler (or Help Assembler)\
        and **🧑‍🏭 🧑‍🌾 HAPAPL** - High Abstract Parallel Assembly Programing Language\
         or **🧑‍🏭 🧑‍🌾 HAPLAP** - High Abstract Parallel Language of Assembly Program
