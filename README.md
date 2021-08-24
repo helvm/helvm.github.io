@@ -1,4 +1,4 @@
-# ☀️ **HelVM** - Heavenly EsotericLanguage VM implemented in Haskell/Eta.
+# ☀️ **HelVM** - Heavenly EsotericLanguage VM implemented in Haskell.
 
 *Write Once, Cross-Compile for EveryWhere*
 
