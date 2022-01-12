@@ -16,8 +16,8 @@
 
 <!-- https://en.wikipedia.org/wiki/README -->
 
-One Automata to rule them all, One Automata to find them,
-One Automata to bring them all and in the rainbow bind them.
+*One Automata to rule them all, One Automata to find them,
+One Automata to bring them all and in the rainbow bind them.*
 
 
 # 🌈 ❤️ 💛 💚 💙 🤍 🖤 🦄
