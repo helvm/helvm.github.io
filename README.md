@@ -2,6 +2,8 @@
 
 *Write Once, Cross-Compile for EveryWhere*
 
+*One Automata to rule them all, One Automata to find them, One Automata to bring them all and in the rainbow bind them.*
+
 ☀️ **HelVM** (pronunciation `helium`) is has five part:
 
 1. **🔧 🎨 [HelMA](http://helvm.github.io/helma)** - Heavenly Esoteric Little Minimalist Automaton
@@ -15,9 +17,5 @@
 **[Blog](https://writeonly.github.io/projects/helvm)** in Polish.
 
 <!-- https://en.wikipedia.org/wiki/README -->
-
-*One Automata to rule them all, One Automata to find them,
-One Automata to bring them all and in the rainbow bind them.*
-
 
 # 🌈 ❤️ 💛 💚 💙 🤍 🖤 🦄
