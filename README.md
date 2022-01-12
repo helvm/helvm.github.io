@@ -6,11 +6,11 @@
 
 ☀️ **HelVM** (pronunciation `helium`) is has five part:
 
-1. **🔧 🎨 [HelMA](http://helvm.github.io/helma)** - Heavenly Esoteric Little Minimalist Automaton
-2. **🏭 🌾 [HelPA](http://helvm.github.io/helpa)** - Heavenly Esoteric Light Parallel Assembler (or Help Assembler)
-3. **🚀 ✈️ [HelPS](http://helvm.github.io/helps)** - Heavenly Esoteric Live Pre Scripter
-4. **🔬 ⚕️ [HelMS](http://helvm.github.io/helms)** - Heavenly Esoteric Large Meta Schemer (or Helm Schemer)
-5. **💼 💻 [HelCT](http://helvm.github.io/helct)** (pronunciation `helicity`) - Heavenly Esoteric Lifted C Transpiler (🫖 Little Celestial Teapot) \
+1. **🔧 🎨 [HelMA](http://helvm.github.io/helma)** - Haskellish Esoteric Little Minimalist Automaton
+2. **🏭 🌾 [HelPA](http://helvm.github.io/helpa)** - Haskellish Esoteric Light Parallel Assembler (or Help Assembler)
+3. **🚀 ✈️ [HelPS](http://helvm.github.io/helps)** - Haskellish Esoteric Live Pre Scripter
+4. **🔬 ⚕️ [HelMS](http://helvm.github.io/helms)** - Haskellish Esoteric Large Meta Schemer (or Helm Schemer)
+5. **💼 💻 [HelCT](http://helvm.github.io/helct)** (pronunciation `helicity`) - Haskellish Esoteric Lifted C Transpiler (🫖 Little Celestial Teapot) \
 <!-- 6. 🚒 🍳 🧑‍🚒 🧑‍🍳 **[HelL](http://helvm.github.io/hell)** - Heavenly Esoteric Long Logician Language -->
 <!-- 7. 🎓 🏫 🧑‍🎓 🧑‍🏫 **HELOS** (pronunciation `helios`) - Heavenly Esoteric Little Operation System  -->
 
