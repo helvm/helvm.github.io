@@ -7,7 +7,7 @@
 ☀️ **HelVM** (pronunciation `helium`) is has five part:
 
 1. **🔧 🎨 [HelMA](http://helvm.github.io/helma)** - Haskellish Esoteric Little Minimalist Automaton
-2. **🏭 🌾 [HelPA](http://helvm.github.io/helpa)** - Haskellish Esoteric Light Parallel Assembler (or Help Assembler)
+2. **🏭 🌾 [HelPA](http://helvm.github.io/helpa)** - Haskellish Esoteric Light Portable Assembler (or Help Assembler)
 3. **🚀 ✈️ [HelPS](http://helvm.github.io/helps)** - Haskellish Esoteric Live Pre Scripter
 4. **🔬 ⚕️ [HelMS](http://helvm.github.io/helms)** - Haskellish Esoteric Large Meta Schemer (or Helm Schemer)
 5. **💼 💻 [HelCT](http://helvm.github.io/helct)** (pronunciation `helicity`) - Haskellish Esoteric Lifted C Transpiler (🫖 Little Celestial Teapot) \
