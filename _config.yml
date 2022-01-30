@@ -70,7 +70,7 @@ title                    : "Heavenly Esoteric Little Virtual Machine"
 tagline                  : "Heavenly Esoteric Little Virtual Machine Evaluator Interpreter Assembler Transpiler Schemer"
 description: >-
   Documentation of Heavenly Esoteric Little Virtual Machine - Evaluator, Interpreter, Assembler, Transpiler & Schemer
-url                      : "https://helvm.github.io/"
+url                      : "http://helvm.org/"
 author:
   name                   : "Kamil Adam"
   email                  : "kamil.adam.zabinski@gmail.com"
