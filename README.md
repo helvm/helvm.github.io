@@ -1,9 +1,5 @@
 # ☀️ **HelVM** - Haskellish Esoteric Language VM implemented in Haskell.
 
-*Write Once, Cross-Compile for EveryWhere*
-
-*One Automata to rule them all, One Automata to find them, One Automata to bring them all and in the rainbow bind them.*
-
 ☀️ **HelVM** (pronunciation `helium`) is has five part:
 
 1. **🔧 🎨 [HelMA](http://helvm.github.io/helma)** - Haskellish Esoteric Little Minimalist Automaton
