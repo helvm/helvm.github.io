@@ -66,10 +66,10 @@ paginate                 : 1
 remote_theme             : helvm/minima
 
 ## jekyll-seo-tag
-title                    : "Heavenly Esoteric Little Virtual Machine"
-tagline                  : "Heavenly Esoteric Little Virtual Machine Evaluator Interpreter Assembler Transpiler Schemer"
+title                    : "Haskellish Esoteric Language Virtual Machine"
+tagline                  : "Haskellish Esoteric Language Virtual Machine Evaluator Interpreter Assembler Schemer Scripter  Transpiler"
 description: >-
-  Documentation of Heavenly Esoteric Little Virtual Machine - Evaluator, Interpreter, Assembler, Transpiler & Schemer
+  Documentation of Haskellish Esoteric Language Virtual Machine - Evaluator, Interpreter, Assembler, Schemer, Scripter & Transpiler
 url                      : "http://helvm.org/"
 author:
   name                   : "Kamil Adam"
