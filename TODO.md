@@ -18,10 +18,10 @@ Add all part in an online version:
     * ELVM
     * WebAssembly
 5. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
-  1. Implement subset of Scheme
-  2. Run SICP. 
-  3. Maybe use Husk
-  4. add syntax for Racket or Clojure
+    1. Implement subset of Scheme
+    2. Run SICP. 
+    3. Maybe use Husk
+    4. add syntax for Racket or Clojure
 7. **[HELMS](helps)** - Heavenly Esoteric Little Poly Scripter. Implement subset of Haskell. Maybe similar like PureScript or simple Rust or Kind
 9. **[HELCT](helct)** - Heavenly Esoteric Little C Transpiler - C :(
 
