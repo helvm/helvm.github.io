@@ -4,19 +4,19 @@
 
 Add all part in an online version:
 1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata - 
-  * Combinator Calculus
-  * Funge
-  * Lambda Calculus
-  * Lazy K
-  * LolCode
-  * Malbolge
-  * Piet
-  * Unlambda
-  * Turing Machine
-  * Zot
+    * Combinator Calculus
+    * Funge
+    * Lambda Calculus
+    * Lazy K
+    * LolCode
+    * Malbolge
+    * Piet
+    * Unlambda
+    * Turing Machine
+    * Zot
 3. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
-  * ELVM
-  * WebAssembly
+    * ELVM
+    * WebAssembly
 5. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
   1. Implement subset of Scheme
   2. Run SICP. 
