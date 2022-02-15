@@ -15,8 +15,10 @@ Add all part in an online version:
     * Turing Machine
     * Zot
 3. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
-    * ELVM
-    * WebAssembly
+    1. ELVM
+    2. LCC Asm
+    3. WebAssembly
+    4. Forth
 5. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
     1. Implement subset of Scheme
     2. Run SICP. 
