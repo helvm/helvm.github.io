@@ -3,17 +3,19 @@
 **Future Features**
 
 Add all part in an online version:
-1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata - 
-    * Combinator Calculus
-    * Funge
-    * Lambda Calculus
-    * Lazy K
-    * LolCode
-    * Malbolge
-    * Piet
-    * Unlambda
-    * Turing Machine
-    * Zot
+1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata:
+    * Functional:
+      * Combinator Calculus
+      * Lambda Calculus
+      * Lazy K
+      * Zot
+    * Imperative: 
+      * Funge
+      * LolCode
+      * Malbolge
+      * Piet
+      * Unlambda
+      * Turing Machine
 3. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
     1. ELVM
     2. LCC Asm
