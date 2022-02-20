@@ -8,7 +8,6 @@ Add all part in an online version:
       * Combinator Calculus
       * Lambda Calculus
       * Lazy K
-      * Zot
     * Imperative: 
       * Funge
       * LolCode
