@@ -8,12 +8,12 @@ Add all part in an online version:
       * Combinator Calculus
       * Lambda Calculus
       * Lazy K
+      * UnLambda
     * Imperative: 
       * Funge
       * LolCode
       * Malbolge
       * Piet
-      * Unlambda
       * Turing Machine
 3. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
     1. ELVM
