@@ -5,7 +5,10 @@
 Add all part in an online version:
 1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata:
     * Functional:
+      * BLC 
       * Combinator Calculus
+      * Crazy L
+      * Fussy K
       * Lambda Calculus
       * Lazy K
       * UnLambda
