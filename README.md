@@ -1,4 +1,4 @@
-# ☀️ **HelVM** - Haskellish Esoteric Language VM implemented in Haskell.
+# ☀️ **HelVM** - Haskellish Esoteric Language VM implemented in Haskell
 
 ☀️ **HelVM** (pronunciation `helium`) is has five part:
 
