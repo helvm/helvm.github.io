@@ -10,7 +10,7 @@
     1. [Combinatory Assemblers](https://github.com/helvm/helpa/milestone/1)
     2. [Word Assemblers](https://github.com/helvm/helpa/milestone/2)
     3. [Byte Assemblers](https://github.com/helvm/helpa/milestone/3)
-    3. [Byte Assemblers](https://github.com/helvm/helpa/milestone/4)
+    3. [Bit Assemblers](https://github.com/helvm/helpa/milestone/4)
     3. [Forth Assemblers](https://github.com/helvm/helpa/milestone/5)
 3. **[HELMS](helps)** - Heavenly Esoteric Little Poly Scripter. 
     1. [Haskellish](https://github.com/helvm/helps/milestone/1)
