@@ -1,8 +1,7 @@
 # ✔️ TODO
 
-**Future Features**
+**Milestones**:
 
-Add all part in an online version:
 1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata:
     1. [Combinatory Automata](https://github.com/helvm/helma/milestone/1)
     2. [Word Automata](https://github.com/helvm/helma/milestone/2)
