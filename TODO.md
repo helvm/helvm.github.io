@@ -16,9 +16,9 @@
     1. [Haskellish](https://github.com/helvm/helps/milestone/1)
     2. [Advanced](https://github.com/helvm/helps/milestone/2)
 4. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
-    1. [Lambda Calculus](https://github.com/helvm/helms/milestone/1)
-    2. [Scheme](https://github.com/helvm/helms/milestone/2)
-    3. [Langs](https://github.com/helvm/helms/milestone/3)
+    1. [Scheme Subset](https://github.com/helvm/helms/milestone/1)
+    2. [Scheme Like Languages](https://github.com/helvm/helms/milestone/2)
+    3. [Other Dynamic Languages](https://github.com/helvm/helms/milestone/3)
 
 You can propose feature by [GitHub](https://github.com/helvm/helcam/issues).
 
