@@ -4,35 +4,22 @@
 
 Add all part in an online version:
 1. **[HELMA](helma)** - Heavenly Esoteric Little Minimalist Automata:
-    * Functional:
-      * BLC 
-      * Combinator Calculus
-      * Crazy L
-      * Fussy K
-      * Lambda Calculus
-      * Lazy K
-      * UnLambda
-    * Imperative: 
-      * Funge
-      * LolCode
-      * Malbolge
-      * Piet
-      * Turing Machine
-3. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
-    1. ELVM
-    2. LCC Asm
-    3. WebAssembly
-    4. Forth
-5. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
-    1. Implement subset of Scheme
-    2. Run SICP
-    3. Maybe use Husk
-    4. Add syntax for Racket or Clojure
-7. **[HELMS](helps)** - Heavenly Esoteric Little Poly Scripter. 
-    1. Implement subset of Haskell
-    2. Implement subset of Scheme in subset of Haskell
-    3. Add syntax similar like PureScript or simple Rust or Kind 
-9. **[HELCT](helct)** - Heavenly Esoteric Little C Transpiler - C :(
+    1. [Combinatory Automata](https://github.com/helvm/helma/milestone/1)
+    2. [Word Automata](https://github.com/helvm/helma/milestone/2)
+    3. [Bit Automata](https://github.com/helvm/helma/milestone/3)
+2. **[HELPA](helpa)** - Heavenly Esoteric Little Portable Assembler:
+    1. [Combinatory Assemblers](https://github.com/helvm/helpa/milestone/1)
+    2. [Word Assemblers](https://github.com/helvm/helpa/milestone/2)
+    3. [Byte Assemblers](https://github.com/helvm/helpa/milestone/3)
+    3. [Byte Assemblers](https://github.com/helvm/helpa/milestone/4)
+    3. [Forth Assemblers](https://github.com/helvm/helpa/milestone/5)
+3. **[HELMS](helps)** - Heavenly Esoteric Little Poly Scripter. 
+    1. [Haskellish](https://github.com/helvm/helps/milestone/1)
+    2. [Advanced](https://github.com/helvm/helps/milestone/2)
+4. **[HELMS](helms)** - Heavenly Esoteric Little Meta Schemer:
+    1. [Lambda Calculus](https://github.com/helvm/helms/milestone/1)
+    2. [Scheme](https://github.com/helvm/helms/milestone/2)
+    3. [Langs](https://github.com/helvm/helms/milestone/3)
 
 You can propose feature by [GitHub](https://github.com/helvm/helcam/issues).
 
