@@ -10,10 +10,11 @@
     1. WASM
     2. SICP-Asm
     3. ELVM
-5. Implement SICP-Scheme to SICP-Scheme-Asm (SCIP)
-6. Implemnet SICP-Scheme-Asm to macros in MetaLambda Calculus.
-7. Implement Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
-8. Implement Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
+6. Compile ELVM to WASM and SICP-Asm
+7. Compile WASM and SICP-Asm to MCL
+8. Implement Eso-Scheme:
+    7. Implement Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
+    8. Implement Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
 9. Implement Piet. It is hard because IO
 
 For short version see [TODO](TODO.md).
