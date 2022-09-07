@@ -14,7 +14,7 @@
 * [NEWS](NEWS.md) - New assemblers and features.
 * [BUGS](BUGS.md) - Know bugs to fix.
 * [FAQ](FAQ.md) -  Frequently Asked Questions & Frequently Given Answers.
-* [Blog](https://writeonly.github.io/projects/helpa) - in Polish.
+* [Blog](https://writeonly.github.io/projects/helvm) - in Polish.
 
 ## For Developers
 
