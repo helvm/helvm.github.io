@@ -1,7 +1,6 @@
 # 🏗️ INSTALL
 
-## Other
+Each project must be installed independently:
 
-For more see [CONTRIBUTING](CONTRIBUTING.md).
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
