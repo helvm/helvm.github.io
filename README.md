@@ -9,18 +9,17 @@
 5. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
 
 ## For User
-* [INSTALL](users/INSTALL.md) - How to download, test and run.
-* [TODO](TODO.md) - Features and to do for all projects
+* [FAQ](FAQ.md) - Frequently Asked Questions & Frequently Given Answers.
 * [NEWS](NEWS.md) - New features.
-* [BUGS](BUGS.md) - Know bugs to fix.
-* [FAQ](FAQ.md) -  Frequently Asked Questions & Frequently Given Answers.
+* [TODO](TODO.md) - Features and to do for all projects
+* [THANKS](THANKS.md) - Thanks for inspiration
+* [AUTHORS](AUTHORS.md) - List of authors
+* [INSTALL](users/INSTALL.md) - How to download, test and run.
 
 ## For Developers
-
-* [THANKS](THANKS.md)
-* [AUTHORS](AUTHORS.md)
-* [ROADMAP](ROADMAP.md)
-* [CHANGELOG](CHANGELOG.md)
+* [BUGS](BUGS.md) - Know bugs to fix.
+* [ROADMAP](ROADMAP.md) - Long versions of [TODO](TODO.md)
+* [CHANGELOG](CHANGELOG.md) - Long versions of [NEWS](NEWS.md)
 * [ARCHITECTURE](developers/ARCHITECTURE.md)
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
