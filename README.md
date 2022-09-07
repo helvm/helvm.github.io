@@ -20,7 +20,7 @@
 * [BUGS](BUGS.md) - Know bugs to fix.
 * [ROADMAP](ROADMAP.md) - Long versions of [TODO](TODO.md)
 * [CHANGELOG](CHANGELOG.md) - Long versions of [NEWS](NEWS.md)
-* [ARCHITECTURE](developers/ARCHITECTURE.md)
+* [ARCHITECTURE](developers/ARCHITECTURE.md) - List of libraries
 * [CONTRIBUTING](CONTRIBUTING.md)
 * [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
