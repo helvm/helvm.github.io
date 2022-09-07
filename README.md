@@ -10,15 +10,15 @@
 5. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
 
 ## For User
-* [FAQ](FAQ.md) - Frequently Asked Questions & Frequently Given Answers.
-* [NEWS](NEWS.md) - New features.
+* [FAQ](FAQ.md) - Frequently Asked Questions & Frequently Given Answers
+* [NEWS](NEWS.md) - New features
 * [TODO](TODO.md) - Features and to do for all projects
 * [THANKS](THANKS.md) - Thanks for inspiration
 * [AUTHORS](AUTHORS.md) - List of authors
-* [INSTALL](users/INSTALL.md) - How to download, test and run.
+* [INSTALL](users/INSTALL.md) - How to download, test and run
 
 ## For Developers
-* [BUGS](BUGS.md) - Know bugs to fix.
+* [BUGS](BUGS.md) - Know bugs to fix
 * [ROADMAP](ROADMAP.md) - Long versions of [TODO](TODO.md)
 * [CHANGELOG](CHANGELOG.md) - Long versions of [NEWS](NEWS.md)
 * [ARCHITECTURE](developers/ARCHITECTURE.md) - List of libraries
