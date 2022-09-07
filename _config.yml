@@ -118,7 +118,7 @@ edit:
   extention              : md
 
 header_pages:
-  - INSTALL.md
+  - users/INSTALL.md
   - TODO.md
   - NEWS.md
   - BUGS.md
