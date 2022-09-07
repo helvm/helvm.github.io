@@ -16,8 +16,6 @@
 * [THANKS](THANKS.md) - Thanks for inspiration
 * [AUTHORS](AUTHORS.md) - List of authors
 
-[comment]: <> ([INSTALL](users/INSTALL.md) - How to download, test and run)
-
 ## For Developers
 * [BUGS](BUGS.md) - Know bugs to fix
 * [ROADMAP](ROADMAP.md) - Long versions of [TODO](TODO.md)
