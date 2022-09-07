@@ -3,11 +3,11 @@
 **Planned features**:
 
 1. Add Malbolge - We have Haskell version. We have to do it because it is simple
-2. Implement Scheme - We have two simple Haskell version. We need it for next steps
+2. Implement Scheme - We have two simple Haskell version. We need it for next steps. Use MegaParsec
 3. Implement Asm for Combinators:
    1. Implement Lazier - Schema DSL. 
    2. Implement Scheme Like Lazier  - For all functional language
-   3. Implement MCL - For all functional language
+   3. Implement MCL - For all functional languagee
 4. Implement other Eso-Schemes:
    1. Implement Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
    2. Implement Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
