@@ -1,6 +1,6 @@
 # ✔️ TODO
 
-**Planned features.**
+**Planned features**:
 
 1. Add Malbolge - We have Haskell version. We have to do it because it is simple
 2. Implement Scheme - We have two simple Haskell version. We need it for next steps
