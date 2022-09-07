@@ -8,7 +8,7 @@
    1. Implement Lazier - Schema DSL. 
    2. Implement Scheme Like Lazier  - For all functional language
    3. Implement MCL - For all functional language
-4. Implement Eso-Scheme:
+4. Implement other Eso-Schemes:
    1. Implement Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
    2. Implement Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
 5. Compile Scheme to:
