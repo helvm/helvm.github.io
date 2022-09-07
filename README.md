@@ -15,7 +15,7 @@
 * [TODO](TODO.md) - Features and to do for all projects
 * [THANKS](THANKS.md) - Thanks for inspiration
 * [AUTHORS](AUTHORS.md) - List of authors
-* [INSTALL](users/INSTALL.md) - How to download, test and run
+[comment]: <> (* [INSTALL](users/INSTALL.md) - How to download, test and run)
 
 ## For Developers
 * [BUGS](BUGS.md) - Know bugs to fix
