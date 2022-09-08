@@ -26,6 +26,6 @@
 You can propose feature by [GitHub](https://github.com/helvm/helcam/issues).
 But if there is a reference code ih Haskell, the feature goes up
 
-For more see [ROADMAP](ROADMAP.md).
+For more see [ROADMAP](../developers/ROADMAP.md).
 
 # 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
