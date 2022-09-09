@@ -2,3 +2,5 @@
 
 * Main Software Engineer @TheKamilAdam
 * Main QA Engineer @degustujaca
+
+## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤

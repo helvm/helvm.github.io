@@ -23,7 +23,7 @@
    3. Funge. These are many fungus, but asm does not exists
 9. Compile C - It is the last goal 
    
-You can propose feature by [GitHub](https://github.com/helvm/helcam/issues).
+You can propose feature by [GitHub](https://github.com/helvm/helvm.github.io/issues).
 But if there is a reference code ih Haskell, the feature goes up
 
 For more see [ROADMAP](../developers/ROADMAP.md).
