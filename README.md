@@ -3,19 +3,19 @@
 ☀️ **HelVM** (pronunciation `helium`) is has six part:
 
 1. **🚒 🍳 [HelIO](http://helvm.org/helvm-common)** - Haskellish Esoteric Library Input Output
-1. **🔧 🎨 [HelMA](http://helvm.org/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
-2. **🏭 🌾 [HelPA](http://helvm.org/helpa)** - Haskellish Esoteric Lightweight Pseudo Assembler (or Help Assembler).  HelPA is Assembler for ETA, SubLeq and WhiteSpace.
-3. **💼 💻 [HelCT](http://helvm.org/helct)** (pronunciation `helicity`) - Haskellish Esoteric Lofty C Transpiler (🫖 Little Celestial Teapot)
-4. **🚀 ✈️ [HelPS](http://helvm.org/helps)** - Haskellish Esoteric Lifted Poly Scripter
-5. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
+2. **🔧 🎨 [HelMA](http://helvm.org/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
+3. **🏭 🌾 [HelPA](http://helvm.org/helpa)** - Haskellish Esoteric Lightweight Pseudo Assembler (or Help Assembler).  HelPA is Assembler for ETA, SubLeq and WhiteSpace.
+4. **💼 💻 [HelCT](http://helvm.org/helct)** (pronunciation `helicity`) - Haskellish Esoteric Lofty C Transpiler (🫖 Little Celestial Teapot)
+5. **🚀 ✈️ [HelPS](http://helvm.org/helps)** - Haskellish Esoteric Lifted Poly Scripter
+6. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
 
 ## For Users
-* [FAQ](users/FAQ.md) - Frequently Asked Questions & Frequently Given Answers
-* [NEWS](users/NEWS.md) - New features
-* [TODO](users/TODO.md) - Features and to do for all projects
-* [THANKS](users/THANKS.md) - Thanks for inspiration
-* [AUTHORS](users/AUTHORS.md) - List of authors
 * [INSTALL](users/INSTALL.md) - How to download and run
+* [AUTHORS](users/AUTHORS.md) - List of authors
+* [THANKS](users/THANKS.md) - Thanks for inspiration
+* [TODO](users/TODO.md) - Features and to do for all projects
+* [NEWS](users/NEWS.md) - New features
+* [FAQ](users/FAQ.md) - Frequently Asked Questions & Frequently Given Answers
 
 ## For Developers
 * [BUGS](developers/BUGS.md) - Know bugs to fix

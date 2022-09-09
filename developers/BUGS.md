@@ -2,7 +2,7 @@
 
 **Know bugs.**
 
-*We do not have any know **bugs**.*
+[List of bugs](https://github.com/helvm/helvm.github.io/labels/bug).
 
 New bugs report by [Github Issues](https://github.com/helvm/helvm.github.io/issues).
 
