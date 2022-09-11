@@ -7,8 +7,9 @@
    2. Implement Scheme Like Lazier (SLC)  - For all functional language
    3. Implement MLC - For all functional languagee
 3. Implement other Eso-Schemes:
-   1. Implement Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
-   2. Implement Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
+   1. Compile Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
+   2. Compile Funge-Scheme to Funge. It is hard because code is in CL. It is a litle dynamic. Scheme has 2 types
+   3. Compile Malbolge-Scheme to Malbolge. It is hard because code is in APL
 4. Compile Scheme to:
    1. WASM
    2. SICP-Asm
