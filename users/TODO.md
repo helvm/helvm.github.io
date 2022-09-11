@@ -1,8 +1,8 @@
 # ✔️TODO
 
 **Planned features**:
-
-1. Add Malbolge - We have Haskell version. We have to do it because it is simple
+1. Implement Lazy K
+1. Implement Malbolge - We have Haskell version. We have to do it because it is simple
 2. Implement Scheme - We have two simple Haskell version. We need it for next steps. Use MegaParsec
 3. Implement Asm for Combinators:
    1. Implement Lazier - Schema DSL. 
