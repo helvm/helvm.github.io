@@ -19,7 +19,6 @@
    1. Piet
    2. Malbolge-Asm. These are many Malbolge-Asm, but all in C
 8. Implement languages
-   1. Lazy K
    2. Implement Malbolge - We have Haskell version. We have to do it because it is simple
    3. Piet. It is hard because IO
    4. Funge
