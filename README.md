@@ -2,12 +2,16 @@
 
 ☀️ **HelVM** (pronunciation `helium`) is has six part:
 
-1. **🚒 🍳 [HelIO](http://helvm.org/helvm-common)** - Haskellish Esoteric Library Input Output
+1. **🚒 🍳 [HelIO](http://helvm.org/helio)** - Haskellish Esoteric Library Input Output
 2. **🔧 🎨 [HelMA](http://helvm.org/helma)** - Haskellish Esoteric Limited Minimalist Automaton. HelMA is Interpreter for Brainfuck, ETA, SubLeq, WhiteSpace and Zot.
 3. **🏭 🌾 [HelPA](http://helvm.org/helpa)** - Haskellish Esoteric Lightweight Pseudo Assembler (or Help Assembler).  HelPA is Assembler for ETA, SubLeq and WhiteSpace.
 4. **💼 💻 [HelCT](http://helvm.org/helct)** (pronunciation `helicity`) - Haskellish Esoteric Lofty C Transpiler (🫖 Little Celestial Teapot)
 5. **🚀 ✈️ [HelPS](http://helvm.org/helps)** - Haskellish Esoteric Lifted Poly Scripter
 6. **🔬 ⚕️ [HelMS](http://helvm.org/helms)** - Haskellish Esoteric Little Meta Schemer (or Helm Schemer)
+<!-- 3. **🎓 🏫 [HelTC]((http://helvm.org/heltc)🏫** - Haskellish Esoteric Lambda T Calculator -->
+
+<!-- 6. 🚒 🍳 🧑‍🚒 🧑‍🍳  -->
+<!-- 7. 🎓 🏫 🧑‍🎓 🧑‍🏫   -->
 
 ## For Users
 * [INSTALL](users/INSTALL.md) - How to download and run
