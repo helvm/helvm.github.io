@@ -9,7 +9,7 @@ We have six diffrent projects:
 | HelPA   | AttoParsec | Collect Legacy Assemblers |
 | HelTC   | Trifecta   | Collect algoritms and macros library |
 | HelCT   | Happy Alex | Collect C library |
-| HelPS   | Own        | Build self Hosted Haskell |
+| HelPS   | Own        | Build self hosted Haskell |
 | HelMS   | MegaParsec | Build real Scheme in Haskell |
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
