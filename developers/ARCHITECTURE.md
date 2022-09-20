@@ -1,6 +1,7 @@
 # 📐 ARCHITECTURE
 
 We have Spaghetti ARCHITECTURE inspired by Flying Spaghetti Monster.
+We have six diffrent projects:
 
 | Project | Parser     | Purpose |
 | ---     | ---        | --- |
