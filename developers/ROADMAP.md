@@ -12,7 +12,7 @@
     3. [Byte Assemblers](https://github.com/helvm/helpa/milestone/3)
     3. [Bit Assemblers](https://github.com/helvm/helpa/milestone/4)
     3. [Forth Assemblers](https://github.com/helvm/helpa/milestone/5)
-3. **[HELMS](../helps/developers/ROADMAP.md)** - Heavenly Esoteric Little Poly Scripter. 
+3. **[HELPS](../helps/developers/ROADMAP.md)** - Heavenly Esoteric Little Poly Scripter. 
     1. [Haskellish](https://github.com/helvm/helps/milestone/1)
     2. [Advanced](https://github.com/helvm/helps/milestone/2)
 4. **[HELMS](../helms/developers/ROADMAP.md)** - Heavenly Esoteric Little Meta Schemer:
