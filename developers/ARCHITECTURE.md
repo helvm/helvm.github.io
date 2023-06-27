@@ -17,9 +17,10 @@ We have six diffrent projects. And fix ways to parse code.
 | Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
 | --- | --- | --- |
 | Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
-| Application and composition | `$` Normal (`<<<` Right-to-left) | `&` Reversed (`>>>` Left-to-right)|
+| Application and composition | `$` Normal (`<<<` Right-to-left (Combinator Style)) | `&` Reversed (`>>>` Left-to-right (Pipe Style))|
 | do notation | don't us, it is imperative | use, it is in Schema Style |
 | IO | Use IO, Use MonadIO and MockIO | Everything is `String -> String` |
+| Prelude | Relude | Own |
 | Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
 | Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
 
