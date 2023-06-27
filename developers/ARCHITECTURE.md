@@ -14,7 +14,7 @@ We have six diffrent projects. And fix ways to parse code.
 
 ## Style
 
-| Prpcjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
+| Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
 | --- | --- | --- |
 | Style | Declaration | Expression |
 | Application and composition | Normal (Right-to-left ) | Reversed (Left-to-right)|
