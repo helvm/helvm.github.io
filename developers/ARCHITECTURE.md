@@ -16,10 +16,10 @@ We have six diffrent projects. And fix ways to parse code.
 
 | Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
 | --- | --- | --- |
-| Style | Declaration | Expression |
+| Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
 | Application and composition | Normal (Right-to-left ) | Reversed (Left-to-right)|
 | do notation | don't use | use |
 | Language extensions | use all | try not to use it |
-| Will we prescribe? | Maybe Rust? |No, we can not! |
+| Will we prescribe? | Maybe Rust? (Maybe APL?) |No, we can not! (Maybe Scheme?) |
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
