@@ -17,9 +17,9 @@ We have six diffrent projects. And fix ways to parse code.
 | Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
 | --- | --- | --- |
 | Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
-| Application and composition | Normal (Right-to-left ) | Reversed (Left-to-right)|
-| do notation | don't use | use |
-| Language extensions | use all | try not to use it |
+| Application and composition | `$` Normal (`<<<` Right-to-left ) | `&` Reversed (`>>>` Left-to-right)|
+| do notation | don't us, it is imperative | use, it is in Schema Style  |
+| Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
 | Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
