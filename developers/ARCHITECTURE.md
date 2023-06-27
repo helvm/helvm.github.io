@@ -12,4 +12,14 @@ We have six diffrent projects. And fix ways to parse code.
 | **[HelPS](http://helvm.org/helps)** | haskell-src / Own | Build self hosted Haskell | Compile Haskell to Esoteric Languages |
 | **[HelMS](http://helvm.org/helms)** | MegaParsec        | Build real Scheme in Haskell | Run Scheme in Esoteric Language |
 
+## Style
+
+| Prpcjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
+| --- | --- | --- |
+| Style | Declaration | Expression |
+| Application and composition | Normal (Right-to-left ) | Reversed (Left-to-right)|
+| do notation | don't use | use |
+| Language extensions | use all | try not to use it |
+| Will we prescribe? | Maybe Rust? |No, we can not! |
+
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
