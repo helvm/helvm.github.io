@@ -18,7 +18,8 @@ We have six diffrent projects. And fix ways to parse code.
 | --- | --- | --- |
 | Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
 | Application and composition | `$` Normal (`<<<` Right-to-left ) | `&` Reversed (`>>>` Left-to-right)|
-| do notation | don't us, it is imperative | use, it is in Schema Style  |
+| do notation | don't us, it is imperative | use, it is in Schema Style |
+| IO | Use IO, Use MonadIO and MockIO | Everything is `String -> String` |
 | Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
 | Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
 
