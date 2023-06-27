@@ -20,6 +20,6 @@ We have six diffrent projects. And fix ways to parse code.
 | Application and composition | Normal (Right-to-left ) | Reversed (Left-to-right)|
 | do notation | don't use | use |
 | Language extensions | use all | try not to use it |
-| Will we prescribe? | Maybe Rust? (Maybe APL?) |No, we can not! (Maybe Scheme?) |
+| Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
