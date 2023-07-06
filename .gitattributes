@@ -1,1 +1,1 @@
-*.rb linguist-vendored
+*.rb linguist-detectable=false
