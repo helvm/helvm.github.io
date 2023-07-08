@@ -19,6 +19,7 @@ We have six diffrent projects. And fix ways to parse code.
 | Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
 | Application and composition | `$` Normal (`<<<` Right-to-left (Combinator Style)) | `&` Reversed (`>>>` Left-to-right (Pipe Style))|
 | do notation | don't us, it is imperative | use, it is in Schema Style |
+| List comprehension | No, never | Yes, of course |
 | IO | Use IO, Use MonadIO and MockIO | Everything is `String -> String` |
 | Prelude | Relude | Own |
 | Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
