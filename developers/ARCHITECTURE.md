@@ -16,12 +16,12 @@ We have six diffrent projects. And fix ways to parse code.
 
 | Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
 | --- | --- | --- |
-| Style | Declaration (Real Haskell Style) | Expression (Scheme Style) |
+| [Style](https://wiki.haskell.org/Declaration_vs._expression_style) | Declaration (Real Haskell Style) | Expression (Scheme Style) |
 | Application and composition | `$` Normal (`<<<` Right-to-left (Combinator Style)) | `&` Reversed (`>>>` Left-to-right (Pipe Style))|
-| do notation | don't us, it is imperative | use, it is in Schema Style |
-| List comprehension | No, never | Yes, of course |
+| [do notation](https://wiki.haskell.org/Do_notation_considered_harmful) | don't us, it is imperative | use, it is in Schema Style |
+| [List comprehension](https://wiki.haskell.org/List_comprehension) | No, never | Yes, of course |
 | IO | Use IO, Use MonadIO and MockIO | Everything is `String -> String` |
-| Prelude | Relude | Own |
+| Prelude | [Relude](https://kowainik.github.io/projects/relude) | Own |
 | Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
 | Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
 
