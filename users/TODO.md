@@ -29,8 +29,8 @@
    4. Funge
    5. False
 9. Compile C - It is the last goal
-  1. C2WS
-  2. C2BF
+   1. C2WS
+   2. C2BF
    
 You can propose feature by [GitHub](https://github.com/helvm/helvm.github.io/issues).
 But if there is a reference code ih Haskell, the feature goes up
