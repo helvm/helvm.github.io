@@ -1,1 +1,2 @@
 *.rb linguist-detectable=false
+Gemfile linguist-detectable=false
