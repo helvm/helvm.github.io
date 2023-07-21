@@ -20,10 +20,10 @@
    1. Piet
    2. Malbolge-Asm. These are many Malbolge-Asm, but all in C
 8. Implement languages
-   2. Implement Malbolge - We have Haskell version. We have to do it because it is simple
-   3. Piet. It is hard because IO
-   4. Funge
-   5. False
+   1. Implement Malbolge - We have Haskell version. We have to do it because it is simple
+   2. Piet. It is hard because IO
+   3. Funge
+   4. False
 9. Compile C - It is the last goal
    
 You can propose feature by [GitHub](https://github.com/helvm/helvm.github.io/issues).
