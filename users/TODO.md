@@ -1,7 +1,15 @@
 # ✔️TODO
 
 **Planned features**:
-1. HELMS - Implement Scheme -
+1. HELTC - Implement Asm for Combinators:
+   1. Implement Lazier - Schema DSL. 
+   2. Implement Scheme Like Lazier (SLC)  - For all functional language
+   3. Implement MLC - For all functional languagee
+2. HELPS - Implement Haskell
+   1. Haskell to BF
+   2. Haskell to LazyK 
+   3. Haskell in Combinators
+3. HELMS - Implement Scheme -
    1. We have two simple Haskell version. We need it for next steps. Use MegaParsec
    2. Implement other Eso-Schemes:
       1. Compile Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
@@ -11,18 +19,10 @@
       1. WASM
       2. SICP-Asm
       3. ELVM
-2. HELPS - Implement Haskell
-   1. Haskell to BF
-   2. Haskell to LazyK 
-   3. Haskell in Combinators
-6. HELTC - Implement Asm for Combinators:
-   1. Implement Lazier - Schema DSL. 
-   2. Implement Scheme Like Lazier (SLC)  - For all functional language
-   3. Implement MLC - For all functional languagee
-7. HELCT - Compile C - It is the last goal
+4. HELCT - Compile C - It is the last goal
     1. C2WS
     2. C2BF
-8. HELPA 
+5. HELPA 
    1. Implement imperative assemblers
       1. Piet-Ams, 
       2. Malbolge-Asm. These are many Malbolge-Asm, but all in C
@@ -32,7 +32,7 @@
    2. Other:
       1. Compile ELVM to WASM and SICP-Asm
       2. Compile WASM and SICP-Asm to MCL
-9. HELMA - Implement languages
+6. HELMA - Implement languages
    1. Piet. It is hard because IO
    2. Implement Malbolge - We have Haskell version. We have to do it because it is simple
    3. Beatnik
