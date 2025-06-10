@@ -2,14 +2,14 @@
 
 **Milestones**:
 
-1. **[HELTC](../heltc/developers/ROADMAP.md)**
-2. **[HELPS](../helps/developers/ROADMAP.md)** - Heavenly Esoteric Little Poly Scripter. 
-    1. [Haskellish](https://github.com/helvm/helps/milestone/1)
-    2. [Advanced](https://github.com/helvm/helps/milestone/2)
-3. **[HELMS](../helms/developers/ROADMAP.md)** - Heavenly Esoteric Little Meta Schemer:
+1. **[HELMS](../helms/developers/ROADMAP.md)** - Heavenly Esoteric Little Meta Schemer:
     1. [Scheme Subset](https://github.com/helvm/helms/milestone/1)
     2. [Scheme Like Languages](https://github.com/helvm/helms/milestone/2)
     3. [Other Dynamic Languages](https://github.com/helvm/helms/milestone/3)
+2. **[HELPS](../helps/developers/ROADMAP.md)** - Heavenly Esoteric Little Poly Scripter. 
+    1. [Haskellish](https://github.com/helvm/helps/milestone/1)
+    2. [Advanced](https://github.com/helvm/helps/milestone/2)
+3. **[HELTC](../heltc/developers/ROADMAP.md)**
 4. **[HELCT](../helma/developers/ROADMAP.md)**
 5. **[HELPA](../helpa/developers/ROADMAP.md)** - Heavenly Esoteric Little Portable Assembler:
     1. [Combinatory Assemblers](https://github.com/helvm/helpa/milestone/1)
