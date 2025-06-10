@@ -1,15 +1,7 @@
 # ✔️TODO
 
 **Planned features**:
-1. HELTC - Implement Asm for Combinators:
-   1. Implement Lazier - Schema DSL. 
-   2. Implement Scheme Like Lazier (SLC)  - For all functional language
-   3. Implement MLC - For all functional languagee
-2. HELPS - Implement Haskell
-   1. Haskell to BF
-   2. Haskell to LazyK 
-   3. Haskell in Combinators
-3. HELMS - Implement Scheme -
+1. HELMS - Implement Scheme -
    1. We have two simple Haskell version. We need it for next steps. Use MegaParsec
    2. Implement other Eso-Schemes:
       1. Compile Unlambda-Scheme to Unlambda. It is a litle dynamic. Scheme has 4 types
@@ -19,6 +11,14 @@
       1. WASM
       2. SICP-Asm
       3. ELVM
+2. HELPS - Implement Haskell
+   1. Haskell to LazyK 
+   2. Haskell in Combinators
+   3. Haskell to BF
+3. HELTC - Implement Asm for Combinators:
+   1. Implement Lazier - Schema DSL. 
+   2. Implement Scheme Like Lazier (SLC)  - For all functional language
+   3. Implement MLC - For all functional languagee
 4. HELCT - Compile C - It is the last goal
     1. C2WS
     2. C2BF
