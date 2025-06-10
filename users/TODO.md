@@ -1,5 +1,9 @@
 # ✔️TODO
 
+**Tips**:
+1. Functional language before imperative
+2. Dynamic typed language before static
+
 **Planned features**:
 1. HELMS - Implement Scheme -
    1. We have two simple Haskell version. We need it for next steps. Use MegaParsec
