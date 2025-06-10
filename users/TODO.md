@@ -20,15 +20,17 @@
    2. Implement Scheme Like Lazier (SLC)  - For all functional language
    3. Implement MLC - For all functional languagee
 4. HELCT - Compile C - It is the last goal
+  1. C Like:
     1. C2WS
     2. C2BF
+  2. Others:
+    1. HaPyLi
 5. HELPA 
    1. Implement imperative assemblers
       1. Piet-Ams, 
       2. Malbolge-Asm. These are many Malbolge-Asm, but all in C
       3. Funge-Asm
       4. Beatnik-Ams
-      5. HaPyLi
    2. Other:
       1. Compile ELVM to WASM and SICP-Asm
       2. Compile WASM and SICP-Asm to MCL
