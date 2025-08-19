@@ -20,10 +20,10 @@ We have six diffrent projects. And fix ways to parse code.
 | do notation                                                        | use, it is in Schema Style                      | don't us, it is imperative                           |
 | List comprehension                                                 | Yes, of course                                  | No, never                                            |
 | IO                                                                 | Everything is `String -> String`                | Use IO, Use MonadIO and MockIO                       |
-| Prelude                                                            | Own / RIO                                       | Relude                                               |
+| Prelude                                                            | Own / RIO                                       | Relude/universum                                     |
 | Language extensions                                                | try not to use it, use basic Haskell            | use many, use advanced feature of Haskell            |
 | Will we prescribe?                                                 | No, we can not! (PureScrip, BQN?)               | Maybe Rust? OCaml? Idris/Curry?                      |
 | Package manager                                                    | Stack ?                                         | Cabal                                                |
-| Other                                                              | Liquid Haskell                                  | Kowainik
+| Other                                                              | Liquid Haskell                                  | Kowainik/Stan, refined                               |
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
