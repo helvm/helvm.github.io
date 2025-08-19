@@ -13,16 +13,17 @@ We have six diffrent projects. And fix ways to parse code.
 | **[HelMA](http://helvm.org/helma)** | ReadP             | Collect Legacy Automata | Create common Stack Automaton | Imperative and unreadable languages |
 ## Style
 
-| Procjects | HelMA, HelPA, HelCT | HelTC, HelPS, HelMS |
-| --- | --- | --- |
-| [Style](https://wiki.haskell.org/Declaration_vs._expression_style) | Declaration (Real Haskell Style) | Expression (Scheme Style) |
-| Application and composition | `$` Normal (`<<<` Right-to-left (Combinator Style)) | `&` Reversed (`>>>` Left-to-right (Pipe Style))|
-| [do notation](https://wiki.haskell.org/Do_notation_considered_harmful) | don't us, it is imperative | use, it is in Schema Style |
-| [List comprehension](https://wiki.haskell.org/List_comprehension) | No, never | Yes, of course |
-| IO | Use IO, Use MonadIO and MockIO | Everything is `String -> String` |
-| Prelude | [Relude](https://kowainik.github.io/projects/relude) | Own |
-| Language extensions | use many, use advanced feature of Haskell | try not to use it, use basic Haskell |
-| Will we prescribe? | Maybe Rust? (Maybe APL? (Maybe BQN?)) |No, we can not! (Maybe Scheme? (Maybe PureScrip/Idris?)) |
-| | Cabal | Stack ? |
+| Procjects                                                          | HelMS, HelPS, HelTC                             | HelCT , HelPA, HelMA                                 |
+| ------------------------------------------------------------------ | ----------------------------------------------- | ---------------------------------------------------- |
+| [Style](https://wiki.haskell.org/Declaration_vs._expression_style) | Expression (Scheme Style)                       | Declaration (Real Haskell Style)                     |
+| Application and composition                                        | `&` Reversed (`>>>` Left-to-right (Pipe Style)) | `$` Normal (`<<<` Right-to-left (Combinator Style))  |
+| do notation                                                        | use, it is in Schema Style                      | don't us, it is imperative                           |
+| List comprehension                                                 | Yes, of course                                  | No, never                                            |
+| IO                                                                 | Everything is `String -> String`                | Use IO, Use MonadIO and MockIO                       |
+| Prelude                                                            | Own                                             | Relude                                               |
+| Language extensions                                                | try not to use it, use basic Haskell            | use many, use advanced feature of Haskell            |
+| Will we prescribe?                                                 | No, we can not! (PureScrip, BQN?)               | Maybe Rust? OCaml? Idris/Curry?                      |
+|                                                                    | Stack ?                                         | Cabal                                                |
+|                                                                    | Liquid Haskell                                  | Kowainik
 
 ## 🦄 🌈 ❤️ 💛 💚 💙 🤍 🖤
