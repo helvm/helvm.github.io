@@ -5,12 +5,12 @@ We have six diffrent projects. And fix ways to parse code.
 
 | Project | Parser | Direct goals | Indirect goals | Broad goals |
 | ---     | ---    | --- | --- | --- |
-| **[HelMS](http://helvm.org/helms)** | MegaParsec        | Build real Scheme in Haskell | Run Scheme in Esoteric Language | Imperative and dynamically typed languages |
-| **[HelPS](http://helvm.org/helps)** | haskell-src / Own | Build self hosted Haskell | Compile Haskell to Esoteric Languages | Functional and statically typed languages |
-| **[HelTC](http://helvm.org/heltc)** | Trifecta          | Build functional Language for Lambda Calculus | Collect algoritms, macros library and combinators | Functional and untypical languages |
-| **[HelCT](http://helvm.org/helct)** | Happy Alex        | Build esoteric C Compiler | Collect C library | Imperative and statically typed languages |
-| **[HelPA](http://helvm.org/helpa)** | AttoParsec        | Collect Legacy Assemblers | Create common Stack Assembler | Imperative and untypical languages |
-| **[HelMA](http://helvm.org/helma)** | ReadP             | Collect Legacy Automata | Create common Stack Automaton | Imperative and unreadable languages |
+| **[HelMS](http://helvm.org/helms)** | Own        | Build real Scheme in Haskell | Run Scheme in Esoteric Language | Imperative and dynamically typed languages |
+| **[HelPS](http://helvm.org/helps)** | Own | Build self hosted Haskell | Compile Haskell to Esoteric Languages | Functional and statically typed languages |
+| **[HelTC](http://helvm.org/heltc)** | Own          | Build functional Language for Lambda Calculus | Collect algoritms, macros library and combinators | Functional and untypical languages |
+| **[HelCT](http://helvm.org/helct)** | Happy-Alex / Trifecta        | Build esoteric C Compiler | Collect C library | Imperative and statically typed languages |
+| **[HelPA](http://helvm.org/helpa)** | AttoParsec / MegaParsec        | Collect Legacy Assemblers | Create common Stack Assembler | Imperative and untypical languages |
+| **[HelMA](http://helvm.org/helma)** | ReadP / ReadS             | Collect Legacy Automata | Create common Stack Automaton | Imperative and unreadable languages |
 ## Style
 
 | Procjects                                                          | HelMS, HelPS, HelTC                             | HelCT , HelPA, HelMA                                 |
